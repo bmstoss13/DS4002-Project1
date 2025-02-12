@@ -21,8 +21,8 @@ In our project, we used Jupyter notebook to run our Python code on a Mac compute
 - from nltk.tokenize import sent_tokenize, word_tokenize
 
 ## Map of Documentation
+![Project 1 Hierarchy (1)](https://github.com/user-attachments/assets/3dec4be1-04ad-4468-9cb2-a2d786d8ac13)
 
-If it's a command-line app, list the available invocations (e.g. git revert, git commit, etc.). If it's a web app, list the URLS.
 
 ## Reproducing Results
 
