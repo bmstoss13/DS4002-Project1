@@ -1,4 +1,4 @@
-# Project 1 for DS4002
+# DS4002 Project 1 - Comoparing Model Performance in Spam vs. Ham Email Detection
 
 The goal of our project is to build a model that identifies spam emails with at least 95% accuracy. We first clean and preprocess the textual data, then use three algorithms (K-Nearest Neighbors, Logistic Regression, and Decision Trees) to identify emails as spam or not spam. We then analyze model performance based on precision and accuracy levels to determine the highest performing algorithm in detecting spam email. 
 
@@ -19,10 +19,10 @@ In our project, we used Jupyter notebook to run our Python code on a Mac compute
 - from nltk.corpus import stopwords
 - from nltk.stem import PorterStemmer
 - from nltk.tokenize import sent_tokenize, word_tokenize
+- ?
 
 ## Map of Documentation
 ![Project 1 Hierarchy (1)](https://github.com/user-attachments/assets/3dec4be1-04ad-4468-9cb2-a2d786d8ac13)
-
 
 ## Reproducing Results
 
