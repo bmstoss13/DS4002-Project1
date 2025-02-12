@@ -1,6 +1,6 @@
-Project 1 for DS4002
+< Project 1 for DS4002 >
 
-Our project cleans and preprocesses the textual data, then uses three algorithms (K-Nearest Neighbors, Logistic Regression, and Decision Trees) to identify emails as spam or not spam. It then compares each model performance based on precision and accuracy levels to determine the highest performing algorithm in detecting spam email. 
+The goal of our project is to build a model that identifies spam emails with at least 95% accuracy. We first clean and preprocess the textual data, then use three algorithms (K-Nearest Neighbors, Logistic Regression, and Decision Trees) to identify emails as spam or not spam. We then analyze model performance based on precision and accuracy levels to determine the highest performing algorithm in detecting spam email. 
 
 ## Software/Platform
 
