@@ -29,5 +29,5 @@ If it's a command-line app, list the available invocations (e.g. git revert, git
 1. Hardware/software requirements for running this project?
 2. Copy DS4002-Project1 folder onto your computer, check that folder structure matches the map of documentation.
 3. Download the emails.csv dataset.
-4. In the SCRIPTS folder, execute the EDA script. This script performs necessary data cleaning and text preprocessing, as well as illustrates important relationships between variables. 
+4. In the SCRIPTS folder, execute the EDA script. This script performs necessary data cleaning and text preprocessing using emails.csv, as well as illustrates important relationships between variables through graphs and tables. 
 5. 
