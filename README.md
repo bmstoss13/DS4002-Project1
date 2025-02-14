@@ -27,8 +27,8 @@ In our project, we used Jupyter notebook to run our Python code on a Mac compute
 
 ## Reproducing Results
 
-1. Hardware/software requirements for running this project?
+1. Ensure that you have the necessary Python packages installed/imported into Jupyter Notebook. 
 2. Copy DS4002-Project1 folder onto your computer, check that folder structure matches the above map of documentation.
-3. Download the emails.csv dataset.
-4. In the SCRIPTS folder, execute ProcessingScript_EDA.ipynb. This script performs necessary data cleaning and text preprocessing using emails.csv, as well as illustrates important relationships between variables through graphs and tables. Finally, this file outputs a cleaned dataset, preprocessed_data.csv that will be used in the AnalysisScript.ipynb. 
-5. Execute AnalysisScript.ipynb. This file uses preprocessed_data.csv to run the three models - KNN, Logistic Regression, and Decision Tree. Once the models are built, they are compared based on precision and accuracy. The file will note the highest performing model, as well as compare the precision and accuracy levels of each model. 
+3. From the DATA folder, download the emails.csv dataset.
+4. In the SCRIPTS folder, execute ProcessingScript_EDA.ipynb. This script performs necessary data cleaning and text preprocessing using emails.csv, as well as illustrates important relationships between variables through graphs and tables. Finally, this file outputs a cleaned dataset -- preprocessed_data.csv -- that will be used in AnalysisScript.ipynb. 
+5. Execute AnalysisScript.ipynb. This file uses preprocessed_data.csv to run the three models: KNN, Logistic Regression, and Decision Tree. Once the models are built, they are compared based on precision and accuracy levels. The file will identify the highest performing model, as well as compare the precision and accuracy levels of each model. 
