@@ -22,8 +22,7 @@ In our project, we used Jupyter notebook to run our Python code on a Mac compute
 
 
 ## Map of Documentation
-![Project 1 Hierarchy](https://github.com/user-attachments/assets/4d254bba-b751-431b-b080-9b645a458a52)
-
+![Project 1 Hierarchy](https://github.com/user-attachments/assets/b5651aaf-c7bd-4d94-a71e-6671611a6a78)
 
 ## Reproducing Results
 
